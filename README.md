@@ -1,5 +1,5 @@
-# Bellman-fort-Algorithm-
-WAP Bellman-fort Algorithm python program
+# Bellman-ford-Algorithm-
+WAP Bellman-ford Algorithm python program
 
 
 Question -
